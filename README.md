@@ -30,4 +30,4 @@ If you find it useful, please consider citing:
 ```
 
 ### Acknowledgement
-The training code base is origined from [DVGO](https://github.com/sunset1995/DirectVoxGO), and web viewer is origined from [SNeRG](https://github.com/google-research/google-research/tree/master/snerg).
+The training code base is origined from [DVGO](https://github.com/sunset1995/DirectVoxGO), and web viewer base is origined from [SNeRG](https://github.com/google-research/google-research/tree/master/snerg).
