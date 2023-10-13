@@ -1,7 +1,7 @@
 ## Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering
 
 This repository contains the implementation of Mip-VoG described in
-[D. Hu, Z. Zhang, T. Hou, T. Liu, H. Fu^1^, M. Gong^2^: Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering. International Conference on Computer Vision (ICCV) 2023. ]([https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620229.pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Hu_Multiscale_Representation_for_Real-Time_Anti-Aliasing_Neural_Rendering_ICCV_2023_paper.pdf))
+[D. Hu, Z. Zhang, T. Hou, T. Liu, H. Fu, M. Gong: Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering. International Conference on Computer Vision (ICCV) 2023. ]([https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620229.pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Hu_Multiscale_Representation_for_Real-Time_Anti-Aliasing_Neural_Rendering_ICCV_2023_paper.pdf))
 
 
 ### Training and evaluation with different configuration
